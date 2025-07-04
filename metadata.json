@@ -1,0 +1,5 @@
+{
+  "name": "Gerenciador de Despesas Inteligente",
+  "description": "Um aplicativo web para gerenciar despesas mensais, definir orçamentos e visualizar gastos com dashboards interativos.",
+  "requestFramePermissions": []
+}
